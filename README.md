@@ -3,6 +3,6 @@
  <p>Nota-se que as variáveis Oldpeak, cp, thalac e exang são as que tem maior correlação positiva ou negativa com a variável alvo.</p>
 <h2>COMPARATIVO DOS MODELOS</h2>
 <img width="1184" height="784" alt="Image" src="https://github.com/user-attachments/assets/dbdf5318-74ce-4f12-befc-1b5ff29446a5" />
-<p>Nota-se que o Extreme Gradient Boosting foi o modelo que obteve melhor desempenho.</p>
+<p>Nota-se que o Extreme Gradient Boosting foi o modelo que obteve melhor desempenho. As mesmas foram utilizadas para treinar os modelos abaixo comparados.</p>
 <p>O modelo XGBoost foi esolhido para ser persistido e utilizado em API para classificação de novos dados. Segue link do repositório:</p>
 <a href="https://github.com/Leogrimes25/API-Extreme-Gradient-Boosting">Link para o Repositório</a>
